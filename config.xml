@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>maxredemptionpayment</name>
+	<displayName><![CDATA[Max Redemption Payment]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Max Redemption Gateway Payment Module]]></description>
+	<author><![CDATA[YNLO ULtratech INC]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
